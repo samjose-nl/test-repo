@@ -1,4 +1,3 @@
 # test-repo
-A personal repository for test cases
-I am a programmer.
+A simple repository for open test cases.
 I work on Magento, CakePHP, MySQL, and on.
